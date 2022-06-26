@@ -7,7 +7,7 @@ function Footer(props) {
             <a href="https://bit.ly/3NRAxoE" target="_blank" rel="noreferrer">
                 <span className="icon-linkedin Footer__social"></span>
             </a>
-            <a href="https://bit.ly/3HSZheA" target="_blank" rel="noreferrer">
+            <a href="https://bit.ly/3OLFqQR" target="_blank" rel="noreferrer">
                 <span className="icon-github Footer__social"></span>
             </a>
         </footer>
