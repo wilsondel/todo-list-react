@@ -1,0 +1,24 @@
+.error {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+}
+
+.error figure {
+    margin-top: 50px;;
+}
+
+.error img {
+    width: 80%;
+}
+
+.error figcaption {
+    font-weight: 600;
+}
+
+@media only screen and (max-width: 425px) {
+    .error figcaption {
+        font-size: 20px;
+    }
+}

@@ -1,0 +1,17 @@
+.Footer {
+    position: fixed;
+    bottom: 25px;
+    left: 50px;
+    text-align: left;
+    width: 100%;
+}
+
+.Footer a {
+    text-decoration: none;
+    color: black;
+}
+
+.Footer__social {
+    font-size: 25px;
+    margin: 10px 15px;
+}

@@ -1,0 +1,47 @@
+.TodoItem {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 15px;  
+}
+
+
+.TodoItem__icon {
+    margin: 0 15px;
+}
+
+.TodoItem__icon:hover {
+    cursor: pointer;
+}
+
+.TodoItem__icon_check {
+    border: 2px solid black;
+    background-color: white;
+    margin: 0 15px;
+    padding: 2px;
+    color: white;
+}
+
+.TodoItem__icon--active {
+    color: black;
+}
+
+.TodoItem__paragraph {
+    font-weight: 400;
+}
+
+.TodoItem__paragraph--active {
+    text-decoration: line-through;
+    font-weight: 200;
+}
+
+
+.icon-delete {
+    font-size: 20px;
+    color: rgb(85, 85, 85);
+}
+
+.icon-delete:hover {
+    color: black;
+    transition: 0.5s;
+}
